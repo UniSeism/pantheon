@@ -1,34 +1,22 @@
-# uni-seism
+# UniSeism
 
-An Electron application with React and TypeScript
+A universal and modular application for disaster information visualization.
 
-## Recommended IDE Setup
+## For Developers
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
+### Dev
 ```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
+bun dev
 ```
 
 ### Build
-
 ```bash
-# For windows
-$ npm run build:win
-
 # For macOS
-$ npm run build:mac
+bun build:mac
+
+# For windows
+bun build:win
 
 # For Linux
-$ npm run build:linux
+bun build:linux
 ```
