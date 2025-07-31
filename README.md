@@ -1,6 +1,6 @@
 # UniSeism
 
-A universal and modular application for disaster information visualization.
+A universal and pluggable application for disaster information visualization.
 
 ## For Developers
 
